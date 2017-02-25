@@ -1,0 +1,14 @@
+{
+  "name": "Teekay",
+  "productName": "Teekay",
+  "version": "0.0.1",
+  "description": "Teekay is a transcription tool for writers and journalists",
+  "main": "./main.js",
+  "author": {
+    "name": "Sam Lau",
+    "url": "https://github.com/schmooie"
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
